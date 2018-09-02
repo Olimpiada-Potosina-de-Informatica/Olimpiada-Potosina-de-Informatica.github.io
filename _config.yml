@@ -2,6 +2,5 @@ title: Olimpiada Potosina de Informática
 
 theme: jekyll-theme-leap-day
 
-github:
-  zip_url: https://m.facebook.com/olimpiada.potosina.de.informatica/
-  another_url: Registrarme para participar
+show_downloads: false
+google_analytics: UA-74086952-3
