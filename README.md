@@ -62,22 +62,22 @@ Independientemente de la modalidad de Karel (*Pascal* o *Java*) y cualquiera que
 
 ### Elemental
 
-- Concepto de programación - [En #iP](https://www.include-poetry.com/Code/Karel/Principio/Karel/ "Concepto de programación - #iP") | [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#introduccion "Introducción")
-- Entorno de Karel - [En #iP](https://www.include-poetry.com/Code/Karel/Principio/Mundo/ "Entorno de Karel - #iP") | [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#mundo "EL mundo de Karel")
+- Concepto de programación - [En #iP](https://www.include-poetry.com/Code/Karel/Principio/Karel/ "Concepto de programación - #iP") - [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#introduccion "Introducción")
+- Entorno de Karel - [En #iP](https://www.include-poetry.com/Code/Karel/Principio/Mundo/ "Entorno de Karel - #iP") - [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#mundo "EL mundo de Karel")
 - Concepto de Zumbadores - [En #iP](https://www.include-poetry.com/Code/Karel/Principio/Zumbadores/ "Concepto de Zumbadores - #iP")
-- Funciones lineales - [En #iP](https://www.include-poetry.com/Code/Karel/Instrucciones/Lineales/ "Funciones lineales - #iP") | [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#basicos "Comandos básicos de Karel")
+- Funciones lineales - [En #iP](https://www.include-poetry.com/Code/Karel/Instrucciones/Lineales/ "Funciones lineales - #iP") - [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#basicos "Comandos básicos de Karel")
     + Avanzar
     + Gira a la izquierda
     + Coger un zumbador
     + Dejar un zumbador
     + Apagarse
-- Instrucciones condicionales - [En #iP](https://www.include-poetry.com/Code/Karel/Instrucciones/Condicionales/ "Instrucciones condicionales - #iP") | [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#si "La sentencia Si/Entonces ")
+- Instrucciones condicionales - [En #iP](https://www.include-poetry.com/Code/Karel/Instrucciones/Condicionales/ "Instrucciones condicionales - #iP") - [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#si "La sentencia Si/Entonces ")
     + Declaración de la sentencia
     + Condiciones disponibles
     + Bloques de instrucciones
     + Condiciones agrupadas
-- Instrucciones repetitivas o cíclicas - [En #iP](https://www.include-poetry.com/Code/Karel/Instrucciones/Ciclicas/ "Instrucciones repetitivas o cíclicas - #iP") | [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#repetir "La sentencia repetir/veces ")
-- Declaración y manejo de funciones - [En #iP](https://www.include-poetry.com/Code/Karel/Funciones/ "Declaración y manejo de funciones - #iP") | [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#instruccion "La sentencia define-nueva-instruccion/como")
+- Instrucciones repetitivas o cíclicas - [En #iP](https://www.include-poetry.com/Code/Karel/Instrucciones/Ciclicas/ "Instrucciones repetitivas o cíclicas - #iP") - [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#repetir "La sentencia repetir/veces ")
+- Declaración y manejo de funciones - [En #iP](https://www.include-poetry.com/Code/Karel/Funciones/ "Declaración y manejo de funciones - #iP") - [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#instruccion "La sentencia define-nueva-instruccion/como")
     + Función principal
     + Funciones secundarias
 
@@ -87,7 +87,7 @@ Independientemente de la modalidad de Karel (*Pascal* o *Java*) y cualquiera que
 
 Todas las herramientas principales se abarcan en el nivel anterior, lo que sigue es manejar conceptos cada vez más abstractos pero que siempre utilizan lo que es indispensable.
 
-- Recursión - [En #iP](https://www.include-poetry.com/Code/Karel/Recursion/ "Recursión - iP") | [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#parametros "Parámetros en instrucciones")
+- Recursión - [En #iP](https://www.include-poetry.com/Code/Karel/Recursion/ "Recursión - iP") - [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#parametros "Parámetros en instrucciones")
     + Concepto de la recursión
     + Concepto de pila de llamadas
     + Declaración de recursión en Karel
@@ -98,7 +98,7 @@ Todas las herramientas principales se abarcan en el nivel anterior, lo que sigue
 
 En el siguiente nivel de complejidad tenemos:
 
-- Recursión con parámetros - [En #iP](https://www.include-poetry.com/Code/Karel/Recursion/Parametros/ "Recursión con parámetros - #iP") | [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#parametros "Parámetros en instrucciones")
+- Recursión con parámetros - [En #iP](https://www.include-poetry.com/Code/Karel/Recursion/Parametros/ "Recursión con parámetros - #iP") - [En Karelotitlán](http://www.cmirg.com/karelotitlan/curso/introduccion.html#parametros "Parámetros en instrucciones")
     + Concepto de variable
     + Concepto de parámetros como variables de Karel
     + Expresión sucede (sumar)
@@ -127,35 +127,35 @@ Estos temas se proponen para la etapa estatal, es importante mencionar que hay t
 ### Elemental
 
 - Trasfondo sobre el lenguaje
-    + Conocimiento del lenguaje | [En #iP](https://www.include-poetry.com/Code/C++/Lenguaje/ "Lenguaje C++ - #iP") | [En cplusplus.com](http://www.cplusplus.com/info/description/ "A Brief Description").
-    + Concepto de programación | [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/ "Programación - #iP")
-    + Idea del compilador | [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Compilador/ "Compilador - #iP") | [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/introduction/ "Compilers").
-- Librerías | [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Librerias/ "Librerías - #iP") | [En cplusplus.com](http://www.cplusplus.com/reference/clibrary/ "C library").
-- Variables | [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Variables/ "Variables - #iP") | [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/variables/ "Variables and types").
-- Funciones | [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Funciones/ "Funciones - #iP") | [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/functions/ "Functions").
-- Operadores | [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Operadores/ "Operadores") | [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/operators/ "Operators").
-- Punteros | [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Punteros/ "Punteros - #iP") | [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/pointers/ "Pointers").
-- Sentencias | [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Sentencias/ "Sentencias - #iP") | [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/control/ "Statements and flow control").
+    + Conocimiento del lenguaje - [En #iP](https://www.include-poetry.com/Code/C++/Lenguaje/ "Lenguaje C++ - #iP") - [En cplusplus.com](http://www.cplusplus.com/info/description/ "A Brief Description").
+    + Concepto de programación - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/ "Programación - #iP")
+    + Idea del compilador - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Compilador/ "Compilador - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/introduction/ "Compilers").
+- Librerías - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Librerias/ "Librerías - #iP") - [En cplusplus.com](http://www.cplusplus.com/reference/clibrary/ "C library").
+- Variables - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Variables/ "Variables - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/variables/ "Variables and types").
+- Funciones - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Funciones/ "Funciones - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/functions/ "Functions").
+- Operadores - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Operadores/ "Operadores") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/operators/ "Operators").
+- Punteros - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Punteros/ "Punteros - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/pointers/ "Pointers").
+- Sentencias - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Sentencias/ "Sentencias - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/control/ "Statements and flow control").
 
 > A estas alturas el competidor deberá ser capaz de identificar tipos de variables, manejo de funciones y manejo de condiciones, con sus diversas aplicaciones propuestas en los recursos, así como manejar IDE's. El `Hello world` dominado completamente.
 
 ### Nivel experimentado
 
 - Estructuras de datos
-    + Arreglos | [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Arreglos/ "Arreglos - #iP") | [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/arrays/ "Arrays").
+    + Arreglos - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Arreglos/ "Arreglos - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/arrays/ "Arrays").
     + Creación de tipos
-        * Struct | [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Creacion-de-tipos/Struct/ "Struct - #iP") | [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/structures/ "Data structures").
-        * Class | [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Creacion-de-tipos/Class/ "Class - #iP") | [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/classes/ "Classes (I)").
+        * Struct - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Creacion-de-tipos/Struct/ "Struct - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/structures/ "Data structures").
+        * Class - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Creacion-de-tipos/Class/ "Class - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/classes/ "Classes (I)").
     + Contenedores
-        * Pila | [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Creacion-de-tipos/Class/ "Pila - #iP").
-        * Cola | [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Contenedores/Cola/ "Cola - #iP").
-    + STL | [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/STL/ "STL - #iP") | [En cplusplus.com](http://www.cplusplus.com/reference/stl/ "Containers").
+        * Pila - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Creacion-de-tipos/Class/ "Pila - #iP").
+        * Cola - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Contenedores/Cola/ "Cola - #iP").
+    + STL - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/STL/ "STL - #iP") - [En cplusplus.com](http://www.cplusplus.com/reference/stl/ "Containers").
 
 > A estas alturas el competidor deberá ser capaz de identificar y manejar elementos en un arreglo e identificar potenciales usos de una estructura de datos. Sin problemas para manejar los índices de una matriz.
 
 ### Nivel avanzado
 
-- Recursión | [En #iP](https://www.include-poetry.com/Code/C++/Metodos/Recursion/ "Recursión - #iP") | [En cplusplus.com](http://www.cplusplus.com/articles/D2N36Up4/ "Recursion").
+- Recursión - [En #iP](https://www.include-poetry.com/Code/C++/Metodos/Recursion/ "Recursión - #iP") - [En cplusplus.com](http://www.cplusplus.com/articles/D2N36Up4/ "Recursion").
 
 > Para este nivel el competidor deberá ser capaz de entender la naturaleza de la recursión, cómo se declara y potenciales casos de aplicación. Factoriales sin problema con recursión.
 
