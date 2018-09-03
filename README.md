@@ -4,6 +4,8 @@ La **Olimpiada Potosina de Informática** es una competencia a nivel estatal, en
 
 Esta competencia es coordinada por el *Comité de la Olimpiada Potosina de Informática*, en el estado de San Luis Potosí, México.
 
+[¡Inscripciones abiertas!](https://goo.gl/forms/LbE4Y6RH6o7oGqvZ2 "Ir al registro")
+
 Medios de contacto: 
 
 - En Facebook - [Olimpiada Potosina de Informática OPI](https://facebook.com/olimpiada.potosina.de.informatica/ "OPI - Facebook")
