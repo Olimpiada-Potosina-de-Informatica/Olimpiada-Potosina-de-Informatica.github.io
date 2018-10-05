@@ -15,7 +15,7 @@ Medios de contacto:
 
 ### La página oficial de la OMI
 
-La página oficial de la OMI alberga además de datos sobre la competencia algunos recursos para estudio. Lo relevante a preparatorias de encuentra [en la sección general de OMI](http://www.olimpiadadeinformatica.org.mx/OMI/OMI/Material/Temario_Por_Etapas.aspx "Temario por etapas OMI"). Lo relevante a secundarias se encuentra en [la sección de material de estudio para OMIS](http://www.olimpiadadeinformatica.org.mx/OMI/OMI_Secundaria/Preparacion.aspx "Material de estudio secundarias"). 
+La página oficial de la OMI alberga además de datos sobre la competencia algunos recursos para estudio. Lo relevante a preparatorias se encuentra [en la sección general de OMI](http://www.olimpiadadeinformatica.org.mx/OMI/OMI/Material/Temario_Por_Etapas.aspx "Temario por etapas OMI"). Lo relevante a secundarias se encuentra en [la sección de material de estudio para OMIS](http://www.olimpiadadeinformatica.org.mx/OMI/OMI_Secundaria/Preparacion.aspx "Material de estudio secundarias"). 
 
 También está el [sitio oficial de la OMIPS](https://omips.org/ "OMIPS") en donde se pueden consultar exámenes pasados de la competencia nacional. Puede ser un buen recurso en niveles más avanzados del aprendizaje.
 
@@ -31,20 +31,20 @@ Al final está la sección de problemario que abarca una gran diversidad de prob
 
 omegaUp es una plataforma especializada en el jueceo de problemas de programación. En ella se hospedan muy grandes competencias como la **Olimpiada Mexicana de Informática** y la **Competencia Iberoamericana de Informática por Correspondencia**. De la misma forma, muchos estados realizan sus exámenes y procesos estatales en esta plataforma.
 
-En la OPI  manejamos las *Escuelas de omegaUp* para llevar a cabo el avance de los chicos en la competencia estatal, a su vez el comité nacional (*COMI*) lo utiliza para llevar registro de los chicos preseleccionados a la competencia internacional (*IOI*).
+En la OPI  manejamos las *Escuelas de omegaUp* para llevar a cabo el seguimiento del avance de los chicos en la competencia estatal, a su vez el comité nacional (*COMI*) lo utiliza para llevar registro de los chicos preseleccionados a la competencia internacional (*IOI*).
 
 En esta plataforma se encuentra una gran variedad de problemas de *Karel el Robot* (ideal para competidores de categoría de secundarias) y también una gran variedad de problemas que puedes resolver utilizando muchos lenguajes de programación, como `C`, `C++`, `Java`, `Python` entre otros, por lo que es doblemente útil.
 
-> Es requisito que los competidores tengan una cuenta en omegaUp, pues se utilizará a lo largo del procesos.
+> Es requisito que los competidores tengan una cuenta en omegaUp, pues se utilizará a lo largo del proceso.
 
 
 ### Include Poetry
 
-Para aprender los conceptos, familiarizarse con el lenguaje y con el concepto de programar está el sitio especialmente construido para este fin. En [Include Poetry - Code](https://www.include-poetry.com/Code/ "Code - Include Poetry") están los recursos de los temas más relevantes para la **OMI**, OMIP y **OMIS**, por lo que es muy útil durante el proceso estatal en la **OPI**.
+Para aprender los conceptos, familiarizarse con el lenguaje y con la idea de programar está el sitio especialmente construido para este fin. En [Include Poetry - Code](https://www.include-poetry.com/Code/ "Code - Include Poetry") están los recursos de los temas más relevantes para la **OMI**, OMIP y **OMIS**, por lo que el sitio es muy útil durante el proceso estatal en la **OPI**.
 
 Es importante recordar que para secundarias únicamente se utiliza el lenguaje de **Karel**. Hay dos formas de programar a Karel, uno es con la sintaxis de *Pascal* y la otra es la de *Java*, ambas son válidas y utilizadas en la competencia pero en *#iP* todo está explicado en la modalidad *Pascal* (la versión *Java* aún está en desarrollo).
 
-Para ver los temas de Karel, hay que abrir el menú de el sitio en la esquina superior derecha, de ahí a la pestaña de "Karel". Los temas idealmente deben ser vistos de izquierda a derecha, por lo que primero habría que ver los temas de la sección "Para empezar" (también recomendado de izquierda a derecha, es decir, primero "Karel el Robot" -> "Mundo de Karel" -> "Zumbadores" etc). 
+Para ver los temas de Karel, hay que abrir el menú del sitio en la esquina superior derecha, de ahí a la pestaña de "Karel". Los temas idealmente deben ser vistos de izquierda a derecha, por lo que primero habría que ver los temas de la sección "Para empezar" (también recomendado de izquierda a derecha, es decir, primero "Karel el Robot" -> "Mundo de Karel" -> "Zumbadores" etc). 
 
 Para ver los temas pertinentes a la categoría de preparatoria, hay que dirigirse a la pestaña de C++ en el menú. Como ya se había mencionado se pueden abordar los problemas utilizando una gran diversidad de lenguajes, en #iP se enfocan en el lenguaje C++, que es además el más utilizado en esta competencia. Al igual que los temas de Karel, los temas de C++ deben ser vistos de izquierda a derecha.
 
@@ -124,7 +124,7 @@ Para dominar Karel solamente faltaría el tema:
 
 # Temario para preparatorias
 
-Estos temas se proponen para la etapa estatal, es importante mencionar que hay temas y *enfoques* que particularmente se abarcan de forma presencial durante los entrenamientos de la delegación. Estos no son los únicos pero sí los más deseables.
+Estos temas se proponen para la etapa estatal. Es importante mencionar que hay temas y *enfoques* que particularmente se abarcan de forma presencial durante los entrenamientos de la delegación. Estos no son los únicos pero sí los más deseables.
 
 ### Elemental
 
@@ -136,15 +136,19 @@ Estos temas se proponen para la etapa estatal, es importante mencionar que hay t
 - Variables - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Variables/ "Variables - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/variables/ "Variables and types").
 - Funciones - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Funciones/ "Funciones - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/functions/ "Functions").
 - Operadores - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Operadores/ "Operadores") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/operators/ "Operators").
-- Punteros - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Punteros/ "Punteros - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/pointers/ "Pointers").
 - Sentencias - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Sentencias/ "Sentencias - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/control/ "Statements and flow control").
+- Estructuras de datos
+    + Arreglos y matrices - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Arreglos/ "Arreglos - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/arrays/ "Arrays").
 
-> A estas alturas el competidor deberá ser capaz de identificar tipos de variables, manejo de funciones y manejo de condiciones, con sus diversas aplicaciones propuestas en los recursos, así como manejar IDE's. El `Hello world` dominado completamente.
+Como tema adicional se recomienda:
+
+- Punteros - [En #iP](https://www.include-poetry.com/Code/C++/Introduccion/Punteros/ "Punteros - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/pointers/ "Pointers").
+
+> A estas alturas el competidor deberá ser capaz de identificar tipos de variables, manejo de funciones y manejo de condiciones, con sus diversas aplicaciones propuestas en los recursos, así como manejar IDE's. El `Hello world` dominado completamente. Arreglos y matrices se recorren con facilidad.
 
 ### Nivel experimentado
 
 - Estructuras de datos
-    + Arreglos - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Arreglos/ "Arreglos - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/arrays/ "Arrays").
     + Creación de tipos
         * Struct - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Creacion-de-tipos/Struct/ "Struct - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/structures/ "Data structures").
         * Class - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Creacion-de-tipos/Class/ "Class - #iP") - [En cplusplus.com](http://www.cplusplus.com/doc/tutorial/classes/ "Classes (I)").
@@ -153,7 +157,7 @@ Estos temas se proponen para la etapa estatal, es importante mencionar que hay t
         * Cola - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/Contenedores/Cola/ "Cola - #iP").
     + STL - [En #iP](https://www.include-poetry.com/Code/C++/Estructuras/STL/ "STL - #iP") - [En cplusplus.com](http://www.cplusplus.com/reference/stl/ "Containers").
 
-> A estas alturas el competidor deberá ser capaz de identificar y manejar elementos en un arreglo e identificar potenciales usos de una estructura de datos. Sin problemas para manejar los índices de una matriz.
+> A estas alturas el competidor deberá ser capaz de identificar potenciales usos de una estructura de datos y manejarla con soltura. Sin problemas para manejar los índices de una matriz o agregar/eliminar datos de una estructura.
 
 ### Nivel avanzado
 
@@ -189,7 +193,7 @@ Sin embargo, si se requiere de un temario más *explícito*, podemos citar temas
     + Cuadrado, rectángulo, triángulo
 - Sistemas numéricos
     + Principalmente base dos, seis, ocho y diez
-    + Conversión entre sistemas
+    + Conversión entre sistemas numéricos
 - Números factoriales
 - Álgebra
     + Variable
@@ -197,4 +201,4 @@ Sin embargo, si se requiere de un temario más *explícito*, podemos citar temas
     + Solución de ecuaciones
 - Permutación y combinación
 
-El temario en sí puede parecer (y es) un tanto genérico o poco específico, la verdad es que cuanto más se pueda profundizar en cada tema mejor, sin embargo no son necesarios conocimientos demasiado complejos, lo que más ocupamos son los *conceptos o ideas* de cada tema, por ejemplo, la idea de los números factoriales es el hecho de multiplicar todos los números enteros positivos anteriores a el número factorial en cuestión, no es necesario profundizar demasiado en sus propiedades matemáticas (no a este nivel).
+El temario en sí puede parecer (y es) un tanto genérico o poco específico, la verdad es que cuanto más se pueda profundizar en cada tema mejor, sin embargo no son necesarios conocimientos demasiado complejos, lo que más ocupamos son los *conceptos o ideas* de cada tema, por ejemplo, la idea que podemos extraer de los números factoriales es el hecho de multiplicar todos los números enteros positivos menores al número factorial en cuestión e incluir este numero en la multiplicación, no es necesario profundizar demasiado en sus propiedades matemáticas (no a este nivel).
