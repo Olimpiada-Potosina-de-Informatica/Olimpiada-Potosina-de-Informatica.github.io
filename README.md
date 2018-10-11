@@ -16,7 +16,7 @@ Medios de contacto:
 Si ya te inscribiste a la Olimpiada Potosina de Informática y no sabes qué sigue o por donde continuar, esta lista de diez sencillos pasos te será muy útil.
 
 1. Estás inscrito(a) en una competencia, eso significa que quieres aprender y ganar, por lo tanto vas a entrenar mucho. Aquí entrenar se traduce como sentarse, leer y resolver muchos problemas.
-2. Necesitas crear una cuenta en https://omegaup.com
+2. Necesitas crear una cuenta en [https://omegaup.com]
 3. Has saber tu nombre de usuario (el que escogiste en la plataforma) al comité del concurso y rellena todos los datos de tu perfil de omegaUp (https://omegaup.com/profile/)
 4. Lee la guía de omegaUp sobre cómo usar el sitio (https://blog.omegaup.com/category/omegaup/omegaup-101/)
 5. En la sección de Escuelas (parte superior del sitio principal) deberás encontrar un curso llamado OPI 2018 - Etapa 0
