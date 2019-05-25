@@ -13,7 +13,7 @@ Medios de contacto:
 
 ## 10 pasos para comenzar en la OPI
 
-Si quieres participar en la Olimpiada Potosina de I
+Si quieres participar en la Olimpiada Potosina de Informática debes saber que estos son los 10 pasos principales que deberás hacer para comenzar:
 
 1. Estás inscrito(a) en una competencia, eso significa que quieres aprender y ganar, por lo tanto vas a entrenar mucho. Aquí entrenar se traduce como sentarse, leer y resolver muchos problemas.
 2. Necesitas crear una cuenta en [https://omegaup.com](https://omegaup.com)
