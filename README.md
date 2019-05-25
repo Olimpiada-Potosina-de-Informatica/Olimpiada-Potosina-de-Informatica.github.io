@@ -4,7 +4,7 @@ La **Olimpiada Potosina de Informática** es una competencia a nivel estatal, en
 
 Esta competencia es coordinada por el *Comité de la Olimpiada Potosina de Informática*, en el estado de San Luis Potosí, México.
 
-[¡Inscripciones abiertas!](https://goo.gl/forms/LbE4Y6RH6o7oGqvZ2 "Ir al registro")
+**Por el momento no hemos comenzado con el proceso estatal rumbo a la OMI 2020**.
 
 Medios de contacto: 
 
@@ -13,18 +13,18 @@ Medios de contacto:
 
 ## 10 pasos para comenzar en la OPI
 
-Si ya te inscribiste a la Olimpiada Potosina de Informática y no sabes qué sigue o por donde continuar, esta lista de diez sencillos pasos te será muy útil.
+Si quieres participar en la Olimpiada Potosina de I
 
 1. Estás inscrito(a) en una competencia, eso significa que quieres aprender y ganar, por lo tanto vas a entrenar mucho. Aquí entrenar se traduce como sentarse, leer y resolver muchos problemas.
 2. Necesitas crear una cuenta en [https://omegaup.com](https://omegaup.com)
 3. Has saber tu nombre de usuario (el que escogiste en la plataforma) al comité del concurso y rellena todos los datos de tu perfil de omegaUp ([https://omegaup.com/profile/](https://omegaup.com/profile/))
 4. Lee la guía de omegaUp sobre cómo usar el sitio ([https://blog.omegaup.com/category/omegaup/omegaup-101/](https://blog.omegaup.com/category/omegaup/omegaup-101/))
-5. En la sección de Escuelas (parte superior del sitio principal) deberás encontrar un curso llamado OPI 2018 - Etapa 0
+5. En la sección de Escuelas (parte superior del sitio principal) deberás encontrar un curso que en el nombre tiene OPI y el año del proceso actual (no disponible por ahora)
 6. Dentro del curso encontrarás dos tareas, una con Karel en el nombre (es para secundarias) la otra con C++ en el nombre (para prepas). Ve a la tarea correspondiente
 7. Si no tienes idea de cómo programar, porque eres nuevo (muy válido) ve al temario ([https://olimpiada-potosina-de-informatica.github.io](https://olimpiada-potosina-de-informatica.github.io))
-8. Ahora en la sección correspondiente (secundaria o prepa) busca el nivel en el que te ubicas según lo que sabes, si estás en ceros entonces en la sección elemental
+8. Ahora en la sección correspondiente del temario (secundaria o prepa) busca el nivel en el que te ubicas según lo que sabes, si estás en ceros entonces en la sección elemental
 9. Dentro de la sección comienza con el primer tema (si vas de ceros entonces “Conocimiento del lenguaje” para C++, “Concepto de programación” para Karel), ahí abre cualquiera de los links que sugerimos como fuente de información. Personalmente sugiero utilizar la primera opción “En #iP”, pues los temas van ligados y guiados uno detrás del otro
-10. Has lo posible por asistir a los cursos presenciales de los sábados
+10. Has lo posible por asistir a los cursos presenciales
 
 ## Recursos principales de estudio
 
@@ -57,7 +57,7 @@ En esta plataforma se encuentra una gran variedad de problemas de *Karel el Robo
 
 Para aprender los conceptos, familiarizarse con el lenguaje y con la idea de programar está el sitio especialmente construido para este fin. En [Include Poetry - Code](https://www.include-poetry.com/Code/ "Code - Include Poetry") están los recursos de los temas más relevantes para la **OMI**, OMIP y **OMIS**, por lo que el sitio es muy útil durante el proceso estatal en la **OPI**.
 
-Es importante recordar que para secundarias únicamente se utiliza el lenguaje de **Karel**. Hay dos formas de programar a Karel, uno es con la sintaxis de *Pascal* y la otra es la de *Java*, ambas son válidas y utilizadas en la competencia pero en *#iP* todo está explicado en la modalidad *Pascal* (la versión *Java* aún está en desarrollo).
+Es importante recordar que para secundarias únicamente se utiliza el lenguaje de **Karel**. Hay dos formas de programar a Karel, uno es con la sintaxis de *Pascal* y la otra es la de *Java*, ambas son válidas y utilizadas en la competencia, en *#iP* ya puedes encontrar material en ambas modalidades.
 
 Para ver los temas de Karel, hay que abrir el menú del sitio en la esquina superior derecha, de ahí a la pestaña de "Karel". Los temas idealmente deben ser vistos de izquierda a derecha, por lo que primero habría que ver los temas de la sección "Para empezar" (también recomendado de izquierda a derecha, es decir, primero "Karel el Robot" -> "Mundo de Karel" -> "Zumbadores" etc). 
 
